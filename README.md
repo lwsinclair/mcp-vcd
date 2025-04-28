@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/seanmcloughlin-mcp-vcd)
+
 # mcp-vcd
 
 A model context protocol (MCP) server for value change dump (VCD) waveforms.
